@@ -1,3 +1,0 @@
-I clean the data, and clean csv file saved, and attached in the zipfile. Please find the attachment. Before running the code please install all necessary r package, all packages included in code.
-I hosted app on shinyapps.io, and this is the url of the dashboard.
-Online Url : https://appz-1.shinyapps.io/AQI_Data_Visualization/
